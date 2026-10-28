@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/ReysFiles/Programming/MCLabs/Lab3/stm32_pm2026/build",
+  "command": "arm-none-eabi-gcc -DSTM32F103C8 -DSTM32F10X_MD -ID:/ReysFiles/Programming/MCLabs/Lab3/stm32_pm2026/cmsis -ID:/ReysFiles/Programming/MCLabs/Lab3/stm32_pm2026/stm32 -mcpu=cortex-m3 -mthumb -std=c99 -fdata-sections -ffunction-sections -mlittle-endian -g3 -fno-move-loop-invariants -fsigned-char -ffreestanding -g -o CMakeFiles\\stm32_template.dir\\stm32\\startup\\startup_stm32f10x_md.c.obj -c D:\\ReysFiles\\Programming\\MCLabs\\Lab3\\stm32_pm2026\\stm32\\startup\\startup_stm32f10x_md.c",
+  "file": "D:\\ReysFiles\\Programming\\MCLabs\\Lab3\\stm32_pm2026\\stm32\\startup\\startup_stm32f10x_md.c",
+  "output": "CMakeFiles\\stm32_template.dir\\stm32\\startup\\startup_stm32f10x_md.c.obj"
+},
+{
+  "directory": "D:/ReysFiles/Programming/MCLabs/Lab3/stm32_pm2026/build",
+  "command": "arm-none-eabi-gcc -DSTM32F103C8 -DSTM32F10X_MD -ID:/ReysFiles/Programming/MCLabs/Lab3/stm32_pm2026/cmsis -ID:/ReysFiles/Programming/MCLabs/Lab3/stm32_pm2026/stm32 -mcpu=cortex-m3 -mthumb -std=c99 -fdata-sections -ffunction-sections -mlittle-endian -g3 -fno-move-loop-invariants -fsigned-char -ffreestanding -g -o CMakeFiles\\stm32_template.dir\\stm32\\system_stm32f10x.c.obj -c D:\\ReysFiles\\Programming\\MCLabs\\Lab3\\stm32_pm2026\\stm32\\system_stm32f10x.c",
+  "file": "D:\\ReysFiles\\Programming\\MCLabs\\Lab3\\stm32_pm2026\\stm32\\system_stm32f10x.c",
+  "output": "CMakeFiles\\stm32_template.dir\\stm32\\system_stm32f10x.c.obj"
+},
+{
+  "directory": "D:/ReysFiles/Programming/MCLabs/Lab3/stm32_pm2026/build",
+  "command": "arm-none-eabi-gcc -DSTM32F103C8 -DSTM32F10X_MD -ID:/ReysFiles/Programming/MCLabs/Lab3/stm32_pm2026/cmsis -ID:/ReysFiles/Programming/MCLabs/Lab3/stm32_pm2026/stm32 -mcpu=cortex-m3 -mthumb -std=c99 -fdata-sections -ffunction-sections -mlittle-endian -g3 -fno-move-loop-invariants -fsigned-char -ffreestanding -g -o CMakeFiles\\stm32_template.dir\\syscalls\\syscalls.c.obj -c D:\\ReysFiles\\Programming\\MCLabs\\Lab3\\stm32_pm2026\\syscalls\\syscalls.c",
+  "file": "D:\\ReysFiles\\Programming\\MCLabs\\Lab3\\stm32_pm2026\\syscalls\\syscalls.c",
+  "output": "CMakeFiles\\stm32_template.dir\\syscalls\\syscalls.c.obj"
+},
+{
+  "directory": "D:/ReysFiles/Programming/MCLabs/Lab3/stm32_pm2026/build",
+  "command": "arm-none-eabi-gcc -DSTM32F103C8 -DSTM32F10X_MD -ID:/ReysFiles/Programming/MCLabs/Lab3/stm32_pm2026/cmsis -ID:/ReysFiles/Programming/MCLabs/Lab3/stm32_pm2026/stm32 -mcpu=cortex-m3 -mthumb -std=c99 -fdata-sections -ffunction-sections -mlittle-endian -g3 -fno-move-loop-invariants -fsigned-char -ffreestanding -g -o CMakeFiles\\stm32_template.dir\\main.c.obj -c D:\\ReysFiles\\Programming\\MCLabs\\Lab3\\stm32_pm2026\\main.c",
+  "file": "D:\\ReysFiles\\Programming\\MCLabs\\Lab3\\stm32_pm2026\\main.c",
+  "output": "CMakeFiles\\stm32_template.dir\\main.c.obj"
+}
+]
