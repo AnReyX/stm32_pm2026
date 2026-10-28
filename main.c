@@ -99,7 +99,7 @@ void SSD1306_DrawChessboard(void) {
     }
 
     while (SPI1->SR & SPI_SR_BSY);
-    GPIOA->ODR |= GPIO_ODR_ODR4;  // CS = 1
+    GPIOA->ODR |= GPIO_ODR_ODR4;
 
     __asm volatile ("wfi");
 }
