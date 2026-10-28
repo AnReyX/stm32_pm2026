@@ -1,0 +1,6 @@
+D:/ReysFiles/Programming/MCLabs/Lab4/stm32_pm2026/build/CMakeFiles/stm32_template.dir
+D:/ReysFiles/Programming/MCLabs/Lab4/stm32_pm2026/build/CMakeFiles/bin.dir
+D:/ReysFiles/Programming/MCLabs/Lab4/stm32_pm2026/build/CMakeFiles/hex.dir
+D:/ReysFiles/Programming/MCLabs/Lab4/stm32_pm2026/build/CMakeFiles/flash.dir
+D:/ReysFiles/Programming/MCLabs/Lab4/stm32_pm2026/build/CMakeFiles/edit_cache.dir
+D:/ReysFiles/Programming/MCLabs/Lab4/stm32_pm2026/build/CMakeFiles/rebuild_cache.dir
